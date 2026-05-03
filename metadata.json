@@ -1,0 +1,6 @@
+{
+  "name": "OmniBot Builder",
+  "description": "Visual drag-and-drop platform for creating and deploying cross-platform AI agents for Discord, X, and WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
